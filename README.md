@@ -23,21 +23,19 @@ These projects demonstrate my ability to:
 
 | Project | Domain | Objective | Key Techniques | Results |
 | ------- | ------ | --------- | -------------- | ------- |
-| 🚢 [Titanic Survival](titanic_survival/) | Tabular ML | Predict survival of Titanic passengers | Feature Engineering, XGBoost, Stacking | Stacking AUC 0.87 |
-| 🏠 [Boston Housing](boston_housing/) | Regression | Predict housing prices | Polynomial FE, XGBoost, SHAP | XGBoost R² = 0.93 |
-| ❤️ [Heart Disease](heart_disease/) | Healthcare | Predict heart disease presence | Logistic Regression, SVC, SHAP | LogReg AUC = 0.97 |
-| 🧬 [Breast Cancer](breast_cancer/) | Healthcare | Classify tumors (malignant/benign) | PCA, LightGBM, SMOTE | LightGBM AUC = 0.997 |
-| 💉 [Pima Diabetes](pima_diabetes/) | Healthcare | Predict diabetes | CatBoost, Stacking, SHAP | CatBoost AUC = 0.91 |
-| 🧪 [RNA-Seq Cancer](rna_seq_cancer/) | Genomics | Classify cancer types from RNA-Seq | PCA, Logistic Regression, SHAP | F1 Macro = 1.0 |
-| 📚 [CORD-19 NLP](cord19_nlp/) | NLP Biomedical | Analyze COVID-19 papers | LDA, TF-IDF, BioBERT | Semantic retrieval system |
-| 🔬 [Protein Atlas](protein_atlas/) | Computer Vision | Multi-label protein localization | CNN, ResNet18 (4 channels) | Macro F1 = 0.21 |
-| 🧬 [Personalized Medicine](personalized_medicine/) | Genomics + NLP | Classify mutation effects | MiniLM embeddings, XGBoost, SHAP | Log Loss ≈ 1.1 |
-
+| 🚢 [Titanic Survival](titanic-survival-prediction/) | Tabular ML | Predict survival of Titanic passengers | Feature Engineering, XGBoost, Stacking | Stacking AUC 0.87 |
+| 🏠 [Boston Housing](boston-housing-regression/) | Regression | Predict housing prices | Polynomial FE, XGBoost, SHAP | XGBoost R² = 0.93 |
+| ❤️ [Heart Disease](heart-disease-prediction/) | Healthcare | Predict heart disease presence | Logistic Regression, SVC, SHAP | LogReg AUC = 0.97 |
+| 🧬 [Breast Cancer](breast-cancer-classification/) | Healthcare | Classify tumors (malignant/benign) | PCA, LightGBM, SMOTE | LightGBM AUC = 0.997 |
+| 💉 [Pima Diabetes](pima-indians-diabetes/) | Healthcare | Predict diabetes | CatBoost, Stacking, SHAP | CatBoost AUC = 0.91 |
+| 🧪 [RNA-Seq Cancer](gene-expression-cancer/) | Genomics | Classify cancer types from RNA-Seq | PCA, Logistic Regression, SHAP | F1 Macro = 1.0 |
+| 📚 [CORD-19 NLP](covid19-cord19-nlp/) | NLP Biomedical | Analyze COVID-19 papers | LDA, TF-IDF, BioBERT | Semantic retrieval system |
+| 🔬 [Protein Atlas](human-protein-atlas/) | Computer Vision | Multi-label protein localization | CNN, ResNet18 (4 channels) | Macro F1 = 0.21 |
+| 🧬 [Personalized Medicine](personalized-medicine-cancer/) | Genomics + NLP | Classify mutation effects | MiniLM embeddings, XGBoost, SHAP | Log Loss ≈ 1.1 |
 
 ---
 
 ## 🗂 Repository Structure
-
 📦 data-science
 ┣ 📜 README.md # Global README (this file)
 ┣ 📂 titanic-survival-prediction/ # Project 1
@@ -65,7 +63,6 @@ Here are some sample results:
 - 🧬 Personalized Medicine → **Ablation study**  
   <img src="personalized-medicine-cancer/figures/ablation_study.png" alt="Ablation study" width="500"/>
 
-
 ---
 
 ## 🚀 Next Steps
@@ -78,6 +75,3 @@ Here are some sample results:
 ## 📩 Contact
 👤 **Jérémy Goetschy**  
 📧 jeremygoetschy0@gmail.com
-
----
-
