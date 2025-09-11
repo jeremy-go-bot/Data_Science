@@ -54,14 +54,16 @@ These projects demonstrate my ability to:
 ---
 
 ## 🎨 Visual Highlights
-Here are some sample results:  
+Here are some sample results:
 
 - 🧬 Breast Cancer → **PCA explained variance**  
-<img src="pca_explained_variance.png" alt="PCA explained variance" width="400"/>
+  <img src="breast-cancer-classification/figures/pca_explained_variance.png" alt="PCA explained variance" width="400"/>
+
 - 💉 Pima Diabetes → **SHAP summary plot**  
-<img src="shap_summary_plot.png" alt="SHAP summary plot" width="400"/>
+  <img src="pima-indians-diabetes/figures/shap_summary_plot.png" alt="SHAP summary plot" width="400"/>
+
 - 🧬 Personalized Medicine → **Ablation study**  
-<img src="ablation_study.png" alt="Ablation study" width="500"/>
+  <img src="personalized-medicine-cancer/figures/ablation_study.png" alt="Ablation study" width="500"/>
 
 
 ---
@@ -78,3 +80,4 @@ Here are some sample results:
 📧 jeremygoetschy0@gmail.com
 
 ---
+
