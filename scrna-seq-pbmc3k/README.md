@@ -47,6 +47,7 @@ Required packages: scanpy, matplotlib, seaborn, scikit-learn, shap, pandas, nump
 
 ### 3. Download Data
 Download the PBMC3k dataset from 10x Genomics (https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz).
+
 Extract into:  
 data/filtered_gene_bc_matrices/hg19/  
 
