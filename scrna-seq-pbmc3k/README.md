@@ -1,4 +1,4 @@
-# 🧬 scRNA-seq Analysis: PBMC3k Dataset
+# 🧫 scRNA-seq Analysis: PBMC3k Dataset
 
 ## 🚀 Overview
 This project showcases an advanced **single-cell RNA sequencing (scRNA-seq)** pipeline applied to the **PBMC3k dataset** (3,000 peripheral blood mononuclear cells).  
