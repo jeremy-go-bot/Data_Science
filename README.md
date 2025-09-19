@@ -1,3 +1,4 @@
+
 # 📊 Data Science Portfolio
 
 Welcome to my **Data Science & Machine Learning portfolio**.  
@@ -16,6 +17,8 @@ These projects demonstrate my ability to:
 - Apply **ML, Deep Learning, NLP, and Explainable AI techniques**.
 - Handle **imbalanced datasets, dimensionality reduction, and model optimization**.
 - Deliver **robust, reproducible, and interpretable pipelines**.
+- Build **simple apps** (e.g., Streamlit dashboards) to communicate results
+
 
 ---
 
@@ -32,7 +35,7 @@ These projects demonstrate my ability to:
 | 📚 [CORD-19 NLP](covid19-cord19-nlp/) | NLP Biomedical | Analyze COVID-19 papers | LDA, TF-IDF, BioBERT | Semantic retrieval system |
 | 🔬 [Protein Atlas](human-protein-atlas/) | Computer Vision | Multi-label protein localization | CNN, ResNet18 (4 channels) | Macro F1 = 0.21 |
 | 🧬 [Personalized Medicine](personalized-medicine-cancer/) | Genomics + NLP | Classify mutation effects | MiniLM embeddings, XGBoost, SHAP | Log Loss ≈ 1.1 |
-| 🧫 [PBMC3k scRNA-seq](scrna-seq-pbmc3k/) | Single-Cell Genomics | Identify & classify immune cell types | Scanpy, PCA/UMAP, Leiden, Random Forest, SHAP | 9 clusters, RF AUC = 0.98 |
+| 🧫[PBMC3k scRNA-seq](scrna-seq-pbmc3k/) | Single-Cell Genomics | Identify & classify immune cell types | Scanpy, PCA/UMAP, Leiden, Random Forest, SHAP, Streamlit, Docker | 9 clusters, RF AUC = 0.98 |
 
 ---
 
@@ -48,7 +51,7 @@ These projects demonstrate my ability to:
 ┣ 📂 covid19-cord19-nlp/            # Project 7  
 ┣ 📂 human-protein-atlas/           # Project 8  
 ┣ 📂 personalized-medicine-cancer/  # Project 9  
-┣ 📂 scrna-seq-pbmc3k/              # Project 10  
+┣ 📂 scrna-seq-pbmc3k/              # Project 10  (Streamlit + Docker)
 
 ---
 
